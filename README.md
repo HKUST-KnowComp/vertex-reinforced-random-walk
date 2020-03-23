@@ -19,8 +19,6 @@ To run *drrw* on PPI, you can use the following command:<br/>
 To run *drrw* on Facebook, you can use the following command:<br/>
  `` python link_prediction_my.py --model vrrw --input graphs/facebook.edgelist --explore exploration ``
 
-#### Output
-The probability of clicking an unseen document by the target user.
 
 ### Citing
 If you find *reinforce2vec* useful for your research, please consider citing the following paper:
