@@ -24,6 +24,7 @@ The probability of clicking an unseen document by the target user.
 
 ### Citing
 If you find *reinforce2vec* useful for your research, please consider citing the following paper:
+
   @article{xiao2020vertex,
     title={Vertex-reinforced Random Walk for Network Embedding},
     author={Xiao, Wenyi and Zhao, Huan and Zheng, Vincent W and Song, Yangqiu},
