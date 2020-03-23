@@ -1,9 +1,9 @@
 # Vertex Reinforced Random Walk for Network Embedding (reinforce2vec)
 
 This repository provides a reference implementation of *reinforce2vec* as described in the paper in SDM 2020:<br>
-> Vertex-reinforced Random Walk for Network Embedding.<br>
-> Wenyi Xiao, Huan Zhao, Vincent W. Zheng, Yangqiu Song.<br>
-> https://arxiv.org/abs/2002.04497 <Insert paper link>
+  > Vertex-reinforced Random Walk for Network Embedding.<br>
+  > Wenyi Xiao, Huan Zhao, Vincent W. Zheng, Yangqiu Song.<br>
+  > https://arxiv.org/abs/2002.04497 <Insert paper link>
 
 We propose to use non-Markovian random walk, variants of vertex-reinforced random walk (VRRW), to fully use the history of a random walk path. To solve the getting stuck problem of VRRW, we introduce an exploitation-exploration mechanism to help the random walk jump out of the stuck set. *reinforce2vec* consists of two random walk models: VRRW and DRRW.
 
